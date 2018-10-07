@@ -1,3 +1,5 @@
+#to access my files, go to lab2 folder.
+
 # nets-tcp-framed-echo
 tcp echo with framing
 
