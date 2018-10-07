@@ -26,3 +26,5 @@ README.md
 ## Author
 
 * **Carlos Cervantes**
+
+* Alejandro Davila helped me a lot to understand the concepts and methods of implementing the program.
