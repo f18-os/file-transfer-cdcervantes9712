@@ -1,8 +1,8 @@
 # TCP File Transfer Protocol Lab
 
 ## Start info
-In order to run this program, you will need to run 'server.py' first inside the server folder. 
-After that, you will need to run the 'client.py' program with two parameters the file name and the request method.
+In order to run this program, you will need to run 'fileServer.py' first inside the server folder. 
+After that, you will need to run the 'fileClient.py'
 
 ### Prerequisites
 
@@ -15,10 +15,10 @@ To run this protocol you will need:
 ```
 client/
     file.txt
-    client.py
+    fileClient.py
     README.md
 server/
-    server.py
+    fileServer.py
     README.md
 README.md
 ```
