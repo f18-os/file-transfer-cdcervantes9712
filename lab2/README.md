@@ -27,4 +27,4 @@ README.md
 
 * **Carlos Cervantes**
 
-* Alejandro Davila helped me a lot to understand the concepts and methods of implementing the program.
+* **Alejandro Davila** helped me a lot to understand the concepts and methods of implementing the program.
